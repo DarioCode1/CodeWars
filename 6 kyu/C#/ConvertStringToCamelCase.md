@@ -21,6 +21,7 @@ Examples
 ### Solution
 
 
+```c#
 using System;
 
 public class Kata
@@ -32,6 +33,7 @@ public class Kata
     return aux;
   }
 }
+```
 
 ---
 
